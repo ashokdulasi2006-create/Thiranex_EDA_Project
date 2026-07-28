@@ -22,3 +22,5 @@ Analyze a sales dataset to discover patterns, trends, and relationships using st
 
 ## Conclusion
 The project demonstrates how Exploratory Data Analysis (EDA) helps understand data, identify trends, and support decision-making using visualizations.
+## Output Chart
+![Sales by Category Chart](sales_by_category.png)
